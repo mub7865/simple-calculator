@@ -26,3 +26,4 @@ if (answer.operator === "Subtraction") {
 } else {
   console.log("Please select valid operator");
 }
+ console.log("the end");
